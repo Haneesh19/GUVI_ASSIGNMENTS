@@ -1,4 +1,4 @@
-# Write a blog on Difference between HTTP1.1 vs HTTP2 #   
+# A blog on Difference between HTTP1.1 vs HTTP2 #   
 ## HTTP ##   
 * HTTP Stand for Hyper Text Transfer Protocol.
 * It is used for the communication between the server and client.
