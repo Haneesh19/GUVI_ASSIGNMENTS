@@ -17,4 +17,5 @@
 * It uses PUSH frame by server that collects all multiple pages .   
 * HTTP2 protocol uses an advanced compression method called HPACK to compressthe file.It compress effectively than HTTP1.1.   
 * HTTP2 offers a feature called weighted prioritization. Which is that it send the data in multiple stream unlike one after another in HTTP1.1.   
+* So the performance speed will be high in HTTP2 compared to HTTP1.1.   
 
